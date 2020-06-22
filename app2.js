@@ -1,4 +1,5 @@
-// document.write( "<br>"+ "Task # 01 and 06 (Full Name)"+"<br>" )
+ASSIGNMENT # 06
+// document.write( "<br>"+ "Chapter 21-25"+ "String Methods"+ "Task # 01 and 06 (Full Name)"+"<br>" )
 // var firstName=prompt("Enter the first name")
 // var lastName=prompt("Enter the last name")
 // alert(firstName+lastName)
@@ -128,7 +129,7 @@
 
 
 
-// document.write("<br>"+"MATHS METHOD" +"<br>" +  "Task # 01 (Integer operation)" +"<br>");
+// document.write("<br>"+ "Chapter 26-30" + "MATHS METHOD" +"<br>" +  "Task # 01 (Integer operation)" +"<br>");
 // var integer=3.45142;
 // document.write("number" + " =" +integer +"<br>");
 // var round= Math.round(integer);
@@ -212,7 +213,7 @@
 
 
 
-// document.write("<br>"+"DATE METHOD" +"<br>" +  "Task # 01 (Date Now)" +"<br>");
+// document.write("<br>"+ "Chapter 31-35"+"DATE METHOD" +"<br>" +  "Task # 01 (Date Now)" +"<br>");
 // var date=new Date();
 // document.write(date)
 
@@ -309,7 +310,7 @@
 
 
 
-// document.write("<br>"+"FUNCTIONS" +"<br>" +  "Task # 01 (Current Date and Time)" +"<br>");
+// document.write("<br>"+ "Chapter 35-38"+"FUNCTIONS" +"<br>" +  "Task # 01 (Current Date and Time)" +"<br>");
 // function date(time){
 //     document.write(time)
 // }
