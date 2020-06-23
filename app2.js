@@ -86,11 +86,12 @@ ASSIGNMENT # 06
 // var a=prompt("Enter the item")
 // var b=["applepie" ,"cookie","cake", "chips","patties"]
 // uppercase=a.touppercase
-// for(var i=0;  i<b.length; i++){
-//     if(a[i]==b){
+// var c=a.indexof(b)
+// if(c!=-1){
 //         alert(a[b] +" is available")
 //     }
-//     else(alert(" is not available"))
+//     else{
+//  alert(" is not available")
     
 // }
 
